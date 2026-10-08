@@ -1,0 +1,46 @@
+Company: NovaTech Solutions
+Document Type: Employee Handbook Excerpt
+Last Updated: October 2026
+
+--- ABOUT THE COMPANY ---
+
+NovaTech Solutions is a software company founded in 2015, headquartered in Austin, Texas.
+The company specializes in cloud infrastructure, AI-powered analytics, and cybersecurity tools.
+As of 2026, NovaTech employs over 1,200 people across offices in Austin, London, and Singapore.
+Annual revenue for 2025 was reported at $340 million, representing a 22% growth from the previous year.
+
+--- LEAVE POLICY ---
+
+Full-time employees are entitled to 20 days of paid annual leave per year.
+Employees in their probation period (first 3 months) are not eligible for paid leave.
+Sick leave is capped at 10 days per calendar year and requires a medical certificate for absences longer than 2 consecutive days.
+Maternity leave is 26 weeks fully paid. Paternity leave is 4 weeks fully paid.
+Unused annual leave of up to 10 days can be carried forward to the next year.
+
+--- SALARY & BENEFITS ---
+
+Salaries are reviewed annually every April. Performance bonuses are paid in January.
+The company offers health insurance covering employees and up to 3 dependents.
+Employees are eligible for a 401(k) plan with a 5% company match after completing 6 months of service.
+Remote work allowance of $100 per month is provided for employees working fully remotely.
+All employees receive a $2,000 annual learning and development budget for courses and certifications.
+
+--- CODE OF CONDUCT ---
+
+Employees must maintain confidentiality of all client and company data.
+Conflicts of interest must be disclosed to the HR department within 7 days of arising.
+Harassment of any kind — verbal, physical, or digital — is grounds for immediate termination.
+All employees are required to complete the annual cybersecurity training by December 31st each year.
+
+--- IT POLICY ---
+
+Company laptops must not be used for personal activities such as gaming or streaming.
+All software installations must be approved by the IT department.
+Employees must use a VPN when accessing company systems outside the office.
+Passwords must be changed every 90 days and must be at least 12 characters long.
+
+--- CONTACT ---
+
+HR Department: hr@novatech.io | +1 (512) 800-1001
+IT Helpdesk: it@novatech.io | +1 (512) 800-2002
+CEO: Sarah Mitchell | ceo@novatech.io
